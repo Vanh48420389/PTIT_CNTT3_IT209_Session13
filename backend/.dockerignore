@@ -1,0 +1,28 @@
+# Version Control
+.git
+.gitignore
+
+# Gradle build directories & caches
+.gradle/
+build/
+out/
+bin/
+
+# IDE / Editor configuration files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath/
+.project/
+
+# Docker files
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# Temporary, cache and log files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
